@@ -1,0 +1,7 @@
+{
+  "name": "Salelytics_executive Summary",
+  "description": "An AI-powered lightweight CRM to automate the logging and analysis of sales activities. It helps sales representatives manage their activities (meetings, emails, voice memos) centrally, providing real-time insights for data-driven decision-making.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
